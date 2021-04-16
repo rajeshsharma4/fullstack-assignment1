@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>
+PRODUCTS PAGE
+</title>
+</head>
+<body>
+<h1>WE HAVE WIDE PRODUCTS AVILABLE</h1>
+<p>we are still developing our website. stay tuned for updates</p>
+</body>
+</html>
